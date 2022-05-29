@@ -87,5 +87,26 @@ The following architecture defines the Acho Problem
 &emsp;
 <img src="https://user-images.githubusercontent.com/67786803/170852025-6f44f320-f162-42dd-8021-a93791a1bf15.png"  width="700" height="223"></img></p>    
 
+## NLMS
+### Filter 1
+- Laplacian white Nosie 
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170893518-caedada6-2971-403c-9ef6-9d4bafc02872.png"  width="700" height="223"></img></p>    
+  
+  - Speech signal
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170893526-1bbee107-fae3-46cb-9442-ce82ddf717d5.png"  width="700" height="223"></img></p>    
 
+### Filter 2
+- Laplacian white Nosie 
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170893543-64ff49dd-53b4-498c-b797-1e6e5727fb3d.png"  width="700" height="223"></img></p>    
+
+  - Speech signal
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170893549-56206dd1-7955-4762-baac-136a81a5944a.png"  width="700" height="223"></img></p>    
 
