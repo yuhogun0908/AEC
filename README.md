@@ -135,3 +135,15 @@ The following architecture defines the Acho Problem
 <img src="https://user-images.githubusercontent.com/67786803/170894245-da3a724f-6a01-4a13-806d-a08d8ebc70fa.png"  width="700" height="223"></img></p>  
 
 
+## RLS
+### Filter 1
+- Laplacian white Nosie 
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170894737-0b742b2f-7f9d-4e0e-ade9-eca2d4b098a8.png"  width="700" height="223"></img></p>    
+
+  - Speech signal
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170894748-b55a58d5-332c-45d6-93c4-8674fd83c0a3.png"  width="700" height="223"></img></p>   
+
