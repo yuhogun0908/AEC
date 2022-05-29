@@ -6,6 +6,7 @@
 * [Problem Setting](#problem-setting)
 * [LMS](#lms)
 * [NLMS](#nlms)
+* [FastBlockLMS](#fastblock-lms)
 * [RLS](#rls)
 
 
@@ -109,4 +110,28 @@ The following architecture defines the Acho Problem
 <p align="center">
 &emsp;
 <img src="https://user-images.githubusercontent.com/67786803/170893549-56206dd1-7955-4762-baac-136a81a5944a.png"  width="700" height="223"></img></p>    
+
+## FastBlock LMS
+### Filter 1
+- Laplacian white Nosie 
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170894223-6fa9ce20-09d8-4cf9-a8ad-e46a5f5a56be.png"  width="700" height="223"></img></p>    
+  
+  - Speech signal
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170894229-5e5bbb22-7bb5-47f9-b05d-14cab2c0e74e.png"  width="700" height="223"></img></p>   
+
+### Filter 2
+- Laplacian white Nosie 
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170894238-d4d7863e-52b9-4ab0-bd01-7cca3f74cc73.png"  width="700" height="223"></img></p>    
+
+  - Speech signal
+<p align="center">
+&emsp;
+<img src="https://user-images.githubusercontent.com/67786803/170894245-da3a724f-6a01-4a13-806d-a08d8ebc70fa.png"  width="700" height="223"></img></p>  
+
 
